@@ -1,0 +1,15 @@
+.content.mb-5 {
+  border-bottom: 2px solid gray;
+}
+
+.content.mb-5 {
+  border-bottom: 2px solid gray;
+}
+i.material-icons.mx-2 {
+    color: green;
+    cursor: pointer;
+}
+i#liked {
+    color: black;
+    cursor: pointer;
+}
